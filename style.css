@@ -27,6 +27,7 @@ h1 {
   color: #fff;
   border-right: 1px solid #444;
   text-align: center;
+  font-size: 18px;
 }
 
 .sidebar a {
@@ -49,4 +50,17 @@ body {
   margin: 1rem auto;
   max-width: 100%;
   height: auto;
+}
+
+.paragraph {
+  font-family: "Monaco", monospace;
+  color: #ffffff;
+  margin: 1rem auto;
+  max-width: 1000px;
+  padding: 0 1rem;
+}
+
+.page-content {
+  margin-left: 100px; /* same width as .sidebar */
+  padding: 1rem;
 }

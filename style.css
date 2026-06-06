@@ -8,6 +8,13 @@ h1 {
   color: #ffffff;
 }
 
+.profilePicture {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  height: auto;
+}
+
 .sidebar {
   position: fixed;
   left: 0;
@@ -35,4 +42,11 @@ h1 {
 
 body {
   margin-left: 220px;
+}
+
+.profilePicture {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  height: auto;
 }

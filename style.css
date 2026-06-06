@@ -41,26 +41,23 @@ h1 {
   text-decoration: underline;
 }
 
-body {
-  margin-left: 220px;
-}
-
-.profilePicture {
-  display: block;
-  margin: 1rem auto;
-  max-width: 100%;
-  height: auto;
-}
-
 .paragraph {
   font-family: "Monaco", monospace;
   color: #ffffff;
   margin: 1rem auto;
   max-width: 1000px;
   padding: 0 1rem;
+  font-size: 18px;
 }
 
 .page-content {
-  margin-left: 100px; /* same width as .sidebar */
+  margin-left: 220px;
   padding: 1rem;
+}
+
+.page-image {
+  display: block;
+  margin: 1rem auto;
+  max-width: 100%;
+  height: auto;
 }
